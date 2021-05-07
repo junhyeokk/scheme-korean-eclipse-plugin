@@ -13,7 +13,7 @@ eclipse-plugin을 설치하는 것과 interpreter를 설치하는 두 단계를 
 distribution-jar 폴더 안의 jar 파일을 이클립스가 설치된 경로의 dropins 폴더 안으로 복사한 뒤 이클립스를 재시작합니다.
 #### 이클립스의 플러그인 설치기능을 이용하는 방법
 eclipse에서 Help > Install New Software...에 들어간 뒤 Add...버튼을 클릭하고 Location에 배포 폴더의 URL을 복사해 넣고 Add를 누릅니다.
-(https://github.com/schemeway/SchemeScript의 Installation 항목 참조)
+(https://github.com/schemeway/SchemeScript 의 Installation 항목 참조)
 현재 배포 서버가 준비되지 않아 사용할수 없습니다.
 
 ## 테스트 방법
@@ -37,3 +37,6 @@ eclipse에서 Help > Install New Software...에 들어간 뒤 Add...버튼을 �
 (ㅋ 더하기이 (덧셈제조기 2))
 (더하기이 5)
 ```
+
+## 개발과정
+https://pllab.tistory.com/
