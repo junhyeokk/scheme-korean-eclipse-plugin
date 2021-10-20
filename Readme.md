@@ -1,6 +1,6 @@
 # Korean Scheme interpreter and Eclipse plugin
 ## 개요
-2021년 1학기 부산대학교 정보컴퓨터공학과 공학연구실습 과정을 통해 만들어진 scheme 한글버전 코드입니다.
+2021년 1학기 정보컴퓨터공학과 공학연구실습 과정을 통해 만들어진 scheme 한글버전 코드입니다.
 * scheme-kr-interpreter 폴더에는 참고사이트(https://www.lwh.jp/lisp/index.html)의 내용을 바탕으로 Chapter 8: Booleans and short-circuit evaluation까지의 기능이 Python으로 구현되어 있습니다.
 * schemetest 폴더에는 이클립스에 설치할 플러그인의 개발 코드가 포함되어 있습니다.
 * distribution-jar 폴더에는 이클립스에 플러그인을 설치할 수 있도록 빌드된 jar 파일이 포함되어 있습니다.
